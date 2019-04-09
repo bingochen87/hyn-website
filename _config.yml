@@ -2,45 +2,27 @@ url: http://web.map3.network
 baseurl: /
 
 # Site settings
-title: Map3.Network
-email: your-email@hyn.space
+title: Hyn.space
+email: administrator@hyn.space
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  - name: Kai Law
+    pic: 1
+    position: The Chief Executive Officer of Hyperion
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  - name: Eric Huang
+    pic: 2
+    position: The Chief Operating Officer of Hyperion
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  - name: Guangxian Zou
+    pic: 3
+    position: The Technologist of Hyperion
+
+  - name: Isaac Zhang
+    pic: 4
+    position: The Chief Scientist of Hyperion
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -63,4 +45,3 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
-theme: jekyll-theme-cayman
