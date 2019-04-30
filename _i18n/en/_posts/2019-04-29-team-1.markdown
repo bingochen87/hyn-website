@@ -1,0 +1,21 @@
+---
+title: Isaac Zhang
+subtitle: Chief Architect
+layout: default
+pic: 4
+modal-id: 4
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: Isaac Zhang
+category: Team
+
+---
+– Co-founder and CTO of Mapxus, largest decentralized indoor mapping platform of the world
+
+– Visiting scholar (Maths), University of Cambridge
+
+– PhD on localization (Computer Science), University of Nottingham
+
+– Veteran in maps stacks, large distributed systems and algorithm design
+
+– Strong advocate of decentralized mapping since 2012

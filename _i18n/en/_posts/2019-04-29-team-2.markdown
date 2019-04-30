@@ -1,0 +1,27 @@
+---
+title: Guangxian Zou
+subtitle: Chief Technology Officer
+layout: default
+pic: 3
+modal-id: 3
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: Guangxian Zou
+category: Team
+
+---
+– Co-founder and CTO of AIPAI, AIPAI is a gaming video sharing platform of China, ranked 502th in the world’s top 1000 websites released by Google, winner of Most Innovative Company 50 in China of the Fast Company magazine
+
+– Expertise in game development, video processing and high concurrence & large distributed architecture
+
+– Worked at Netease, Participated in the development of “Tang Dynasty” and “Westward Journey 3”
+
+– Winner of Most Creative People in Business of China of Fast Company on 2016
+
+– Owners of multiple national patents
+
+– Track host of QCon, a global conferences of technical Leaders. Chairman of TGO Guangzhou. TGO curates a community of technical leaders in China
+
+– Master in University of Electronic Science and Technology of China on 2014
+
+– Co-author of the book “Game Programming Gems 7”

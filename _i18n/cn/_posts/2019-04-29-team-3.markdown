@@ -1,0 +1,20 @@
+---
+title: 黄伟坚
+subtitle: 首席运营官
+layout: default
+pic: 2
+modal-id: 2
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: 黄伟坚
+category: Team
+
+---
+– Mobvista联合创始人及前CTO，亚洲最大的移动广告平台，市值超10亿美元，业务分布全球多个国家地区
+
+– 上海交通大学计算机硕士
+
+– 高并发和分布式云架构的专家，每天处理过百亿广告请求量
+
+– 亚马逊云最佳“技术社区英雄”荣誉
+

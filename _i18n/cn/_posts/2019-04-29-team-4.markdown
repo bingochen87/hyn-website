@@ -1,0 +1,23 @@
+---
+title: 罗凯
+subtitle: 首席执行官
+layout: default
+pic: 1
+modal-id: 1
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: 罗凯
+category: Team
+
+---
+– 拉夫堡理工大学媒体和商业双硕士
+
+– 留学宝联合创始人及COO，留学宝是中国最大的海外留学平台
+
+– Vienna集团CBO，Plateno集团高级总监，BlueFocus总监
+
+– 凤凰卫视伦敦台记者
+
+– 领域4年加密货币投资经验，BTS、EOS、IPFS天使投资人
+
+– 多个国家的论坛演讲嘉宾

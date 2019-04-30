@@ -1,0 +1,19 @@
+---
+title: Eric Huang
+subtitle: Chief Operating Officer
+layout: default
+pic: 2
+modal-id: 2
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: Eric Huang
+category: Team
+
+---
+– Co-founder and ex-CTO of Mobvista, the largest Mobile marketing platform in Asia, over 1B USD market valuation, listed on Neeq (834299), business success with operation in 10+ countries
+
+– Bachelor and Master of Shanghai Jiaotong University, major in EE&CS
+
+– Expertise in high concurrence & distributed cloud architecture, serving 10 billion advertisement per day across the world
+
+– Community hero (best honor) of AWS China

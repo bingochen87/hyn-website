@@ -1,0 +1,21 @@
+---
+title: 张得志
+subtitle: 首席科学家
+layout: default
+pic: 4
+modal-id: 4
+img: hyperion-team.jpeg
+thumbnail: hyperion-team-thumbnail.jpg
+alt: 张得志
+category: Team
+
+---
+– Mapxus联合创始人，Mapxus是全球最大的去中心化室内地图平台
+
+– 剑桥大学访问学者（数学）
+
+– 诺丁汉大学计算机科学博士
+
+– 大型分布式系统和算法设计、地图栈专家
+
+– 自2012年期强烈支持去中心化地图
