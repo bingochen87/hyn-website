@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyn.space</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://web.map3.network/</link>
+    <atom:link href="http://web.map3.network/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 30 Apr 2019 11:02:07 +0800</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2019 11:02:07 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Kai Law</title>
+        <description>&lt;p&gt;– Double Master of Media and Business, Loughborough University UK&lt;/p&gt;
+
+&lt;p&gt;– Co-Founder &amp;amp; COO of Liuxuebao, largest study-abroad SAAS platform in China&lt;/p&gt;
+
+&lt;p&gt;– CBO of Vienna Group, Senior Director of Plateno Group, Director of BlueFocus&lt;/p&gt;
+
+&lt;p&gt;– Journalist of Phoenix TV channel London branch&lt;/p&gt;
+
+&lt;p&gt;– 4 years crypto investment experience, angel of BTS, EOS, IPFS&lt;/p&gt;
+
+&lt;p&gt;– Blockchain influencer and forum speaker of multiple countries&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/team/2019/04/29/team-4/</link>
+        <guid isPermaLink="true">http://web.map3.network/team/2019/04/29/team-4/</guid>
+        
+        
+        <category>Team</category>
+        
+      </item>
+    
+      <item>
+        <title>Eric Huang</title>
+        <description>&lt;p&gt;– Co-founder and ex-CTO of Mobvista, the largest Mobile marketing platform in Asia, over 1B USD market valuation, listed on Neeq (834299), business success with operation in 10+ countries&lt;/p&gt;
+
+&lt;p&gt;– Bachelor and Master of Shanghai Jiaotong University, major in EE&amp;amp;CS&lt;/p&gt;
+
+&lt;p&gt;– Expertise in high concurrence &amp;amp; distributed cloud architecture, serving 10 billion advertisement per day across the world&lt;/p&gt;
+
+&lt;p&gt;– Community hero (best honor) of AWS China&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/team/2019/04/29/team-3/</link>
+        <guid isPermaLink="true">http://web.map3.network/team/2019/04/29/team-3/</guid>
+        
+        
+        <category>Team</category>
+        
+      </item>
+    
+      <item>
+        <title>Guangxian Zou</title>
+        <description>&lt;p&gt;– Co-founder and CTO of AIPAI, AIPAI is a gaming video sharing platform of China, ranked 502th in the world’s top 1000 websites released by Google, winner of Most Innovative Company 50 in China of the Fast Company magazine&lt;/p&gt;
+
+&lt;p&gt;– Expertise in game development, video processing and high concurrence &amp;amp; large distributed architecture&lt;/p&gt;
+
+&lt;p&gt;– Worked at Netease, Participated in the development of “Tang Dynasty” and “Westward Journey 3”&lt;/p&gt;
+
+&lt;p&gt;– Winner of Most Creative People in Business of China of Fast Company on 2016&lt;/p&gt;
+
+&lt;p&gt;– Owners of multiple national patents&lt;/p&gt;
+
+&lt;p&gt;– Track host of QCon, a global conferences of technical Leaders. Chairman of TGO Guangzhou. TGO curates a community of technical leaders in China&lt;/p&gt;
+
+&lt;p&gt;– Master in University of Electronic Science and Technology of China on 2014&lt;/p&gt;
+
+&lt;p&gt;– Co-author of the book “Game Programming Gems 7”&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/team/2019/04/29/team-2/</link>
+        <guid isPermaLink="true">http://web.map3.network/team/2019/04/29/team-2/</guid>
+        
+        
+        <category>Team</category>
+        
+      </item>
+    
+      <item>
+        <title>Isaac Zhang</title>
+        <description>&lt;p&gt;– Co-founder and CTO of Mapxus, largest decentralized indoor mapping platform of the world&lt;/p&gt;
+
+&lt;p&gt;– Visiting scholar (Maths), University of Cambridge&lt;/p&gt;
+
+&lt;p&gt;– PhD on localization (Computer Science), University of Nottingham&lt;/p&gt;
+
+&lt;p&gt;– Veteran in maps stacks, large distributed systems and algorithm design&lt;/p&gt;
+
+&lt;p&gt;– Strong advocate of decentralized mapping since 2012&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/team/2019/04/29/team-1/</link>
+        <guid isPermaLink="true">http://web.map3.network/team/2019/04/29/team-1/</guid>
+        
+        
+        <category>Team</category>
+        
+      </item>
+    
+      <item>
+        <title>2018 Hyperion Annual Report</title>
+        <description>&lt;h4 id=&quot;why-do-we-need-an-annual-report&quot;&gt;Why do we need an annual report?&lt;/h4&gt;
+&lt;p&gt;This is the very first annual report of Hyperion project since established, to look back 2018 and see what we have achieved so far. In just a year we figured out the opportunities for decentralized map from the challenges faced by modern map companies like privacy leakage and high data usage cost. Also we managed to develop two decentralized map products for every user to engage with. For Hyperion, 2018 is “the year of Origin for decentralized map”.&lt;/p&gt;
+
+&lt;h4 id=&quot;great-knowledge-comes-from-the-humblest-of-origins&quot;&gt;“Great knowledge comes from the humblest of origins.”&lt;/h4&gt;
+
+&lt;h4 id=&quot;imagine-wild&quot;&gt;Imagine Wild&lt;/h4&gt;
+
+&lt;p&gt;Hyperion was born out of stealth as a rebellion to challenge the traditional map industry. We had the great confidence to get early supporters to help us experiment and realize our vision to solve the current problems faced by location data users. However, investors barely had confidence in blockchain industry due to the market downturn in 2018. But in the meantime, thanks to the market panic, Hyperion team was enabled to focus on building up a map service infrastructure where it is trusted, private and secured by the community, while we wait for the winter to be over.&lt;/p&gt;
+
+&lt;p&gt;Key words: &lt;strong&gt;Hyperion Culture, bold experimentations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hyperionsgoffical/the-world-can-be-a-canvas-and-hyperion-is-the-brush-b7545d23a2da&quot;&gt;The world can be a canvas and Hyperion is the brush&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Luckily, Hyperion never abandoned the vision in decentralized future. For us, spatial consensus means well beyond an engineering methodology, and can support a decentralized map economy of 10 billion people when achieved. In other words, it’s a network of value that can benefit every user through map data usage with privacy protected. In future, as the payment channel built, users can earn economic rewards by joining Hyperion network, for instance, either to provide data service or watch advertisement.&lt;/p&gt;
+
+&lt;p&gt;Key words: global map public chain, digital land rights&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hyperionsgoffical/dialogue-with-dr-236b8a15e9d4&quot;&gt;Dialogue with Dr. Issac Zhang ,co-founder of Hyperion: blockchain empowers the world’s largest virtual digital land&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;think-elegant&quot;&gt;Think Elegant&lt;/h4&gt;
+
+&lt;p&gt;Ideas need refined strategies to put into actions, especially in difficult times, as no investors will take huge risks without expecting high returns. To survive the winter, Hyperion had to re-think about the practical value and feasibility of consensus map future. The key is the good product. Hyperion team quickly reached their consensus in strategy: only by launching high-quality products that can solve real-life problems, can pioneer the market.&lt;/p&gt;
+
+&lt;p&gt;Key words: The path to location data autonomy, 10 billion people, map value stack&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hyperionsgoffical/hyperion-a-global-decentralized-map-network-aiming-to-support-a-decentralized-map-economy-of-10-75f61baea716&quot;&gt;Autonomy over Digital Location&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;build-fast&quot;&gt;Build Fast&lt;/h4&gt;
+
+&lt;p&gt;In mid-2018, since Hyperion published project and Atlas white paper with some early supporters, we have seen significant growth in Hyperion’s vision, technology, and community. We also launched two decentralized map products — MapRush (dMapper) and Map3 (dMap) in Asia, Americas, Oceania and Europe. Details can be found in the two articles below. The two products have attracted more community members to participate our decentralized experiments.&lt;/p&gt;
+
+&lt;p&gt;Key words: &lt;strong&gt;MapRush, gaming primitive, social collaboration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/jvKqNC_T0k6A_PLeNqkfJQ&quot;&gt;If you want to go far, go together&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Key words: security, high speed, service node, Dashboard&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hyperionsgoffical/hyperion-launches-map3-dmap-devnet-on-6th-january-c60ef08356b6&quot;&gt;Hyperion launches Map3 (dMap) DevNet on 6th January&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;what-we-have-accomplished-in-2018&quot;&gt;What we have accomplished in 2018&lt;/h4&gt;
+
+&lt;p&gt;As the product launched, people start to follow what is ‘decentralized map’, and they register in &lt;a href=&quot;https://talk.hyn.space/&quot;&gt;Hyperion forum&lt;/a&gt; to share feedbacks and answer inquiries. Our early followers have become the driving force to achieve spatial consensus future.&lt;/p&gt;
+
+&lt;p&gt;The most important thing in the 1st year is confidence in the project. By Jan 2019, Hyperion has made a huge progress in community size. The number of community members has reached 72,809, compared with the small team of 20 when built, which proves that developing good products and optimizing user experience is the key to spread a great idea.&lt;/p&gt;
+
+&lt;p&gt;Key words: &lt;strong&gt;A walk through to decentralized network, low cost, service hosting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@hyperionsgoffical/a-guide-to-hyperion-map3-network-9ee79d66c03d&quot;&gt;A Guide to Hyperion Map3 Network&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;what-to-expect-in-2019&quot;&gt;What to expect in 2019&lt;/h4&gt;
+
+&lt;p&gt;Through struggles and efforts in the past year, consensus map has ceased to be an abstract concept, but still needs further experiment to realize the future. The meaning of spatial consensus has been scattered in every product design, interface style, crowd-participation, and idea exchange between every user.&lt;/p&gt;
+
+&lt;p&gt;From February 2019, Hyperion will launch decentralized map dApp Titan, which will enable users to view decentralized map data such as using Google or Baidu map apps. As the same time, we will upgrade Map3 network, launch Main Net in Q3, and update the growing number of service node worldwide. We welcome more creative members to join Hyperion Forum and share your opinions.&lt;/p&gt;
+
+&lt;h4 id=&quot;happy-chinese-new-year-hyperion-will-see-you-in-2019&quot;&gt;Happy Chinese New Year, Hyperion will see you in 2019&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*wTlb7pQJZ0zbu_f-0ir80g.png&quot; alt=&quot;Happy China's new year&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/media/2019/02/19/media-1/</link>
+        <guid isPermaLink="true">http://web.map3.network/media/2019/02/19/media-1/</guid>
+        
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>A Guide to Hyperion Map3 Network</title>
+        <description>&lt;p&gt;“Geospatial data is a project that’s too big solve by a single commercial entity with a business model based on commercializing that data. Open collaboration around global map data is the future of maps.” (by &lt;a href=&quot;https://www.citylab.com/design/2015/06/who-owns-the-digital-map-of-the-world/396119/&quot;&gt;Alex Barth&lt;/a&gt; from Mapbox)&lt;/p&gt;
+
+&lt;p&gt;With the launch of Map3 network, everyone is enabled to participate and achieve autonomy over location data with the idle resources at home just as how early days bitcoin advocates joined the network. This guide will walk you through Map3 network and help you understand why you should join and how you can contribute to it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why decentralized map matters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Users cannot but pay huge map usage costs with company-centric governance over location data. For instance, Google map’s latest pricing scheme charges enterprise users US$2 to US$7 per thousand maps shows. The recent &lt;a href=&quot;https://gadgets.ndtv.com/apps/features/google-maps-apis-new-pricing-impact-1907242&quot;&gt;increase in API fee&lt;/a&gt; for websites or apps that exceeded the limit of 25,000 maps views per day even furthered the expenses for users.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, exploiting user privacy has become an unspoken practice of big players. In Jan 2019, &lt;a href=&quot;https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/?guccounter=1&quot;&gt;Techcrunch&lt;/a&gt; reveals that US cell carriers still track and sell users real-time location information to other companies in the circumstance of having the same issue just last year. In addition, in Nov 2018, &lt;a href=&quot;https://techcrunch.com/2018/11/27/google-faces-gdpr-complaint-over-deceptive-location-tracking/&quot;&gt;Google&lt;/a&gt; was complained by European consumer organizations for using manipulative tactics to track users’ locations for ad-targeting purposes. An essay published in &lt;a href=&quot;https://plato.stanford.edu/entries/it-privacy/&quot;&gt;Stanford research&lt;/a&gt; studied the consequence of privacy leakage, and claimed that unrestricted access to user account details can harm the data subject in terms of data discrimination and inequality.&lt;/p&gt;
+
+&lt;p&gt;By contrast, decentralized map model values every user. It is built based on spatial consensus, and empowers everyone to build, own and govern map data. Only such decentralized map features pervasive and updated data with low cost while it also protects privacy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*KQJFDQMGgTCKdduefsgkDQ.jpeg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;
+Figure1. Built-with Statistics&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*AkMpx04_JacIdP8oL9w6eQ.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;
+Figure2. Datanyze Statistics&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://trends.builtwith.com/mapping/OpenStreetMap&quot;&gt;Built-with statistics&lt;/a&gt; shows that since January 2018, 20,412 websites worldwide have been using open-source maps instead of Google Maps. The number includes &lt;a href=&quot;https://trends.builtwith.com/mapping/OpenStreetMap&quot;&gt;1.12% of top 1 million sites&lt;/a&gt;. Although the market share still seems narrow, open-source map has clearly been making up ground with a &lt;a href=&quot;https://www.datanyze.com/market-share/mapping-and-gis/google-maps-api-vs-mapbox-gl-js-api&quot;&gt;growing number of usage&lt;/a&gt;. The stumbling block to its prevalence is a lack of well-designed user incentive system, which has been solved by Hyperion ecosystem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is Map3 network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hyperion ecosystem proposes an integrated design of technology, economy and community for everyone. A normal home computer will suffice to join Map3 network, run as a node for service hosting and provide valuable services. When token payment channels built, each service contributor will share the network’s total economic return.&lt;/p&gt;
+
+&lt;p&gt;To better understand how Map3 works, let’s provide an example. If 1 million home computer users have joined Map3 network, and the network receives 1 trillion map requests per day, each service node will handle 1 million requests. Let’s presume per thousand data usage charges US$0.05, in return each service provider can earn US$50 every day, while the cost is marginal. It means with very low cost, each user can earn extra income by simply running the node at home. In the meantime, to ensure data quality, Map3 will encourage frequently updated and trusted nodes by prioritizing their reward payment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A Walk Through to Map3 network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;What is a service node? Map3 network comprises core and edge layers. Nodes are distributed in the two layers. A core node requires 60G hard disk space to record map data; but an edge node only needs to receive data requests, transfer data from the core node, and send it peer to peer to end users, which is known as a service node. Home computer users are recommended to join as a service node.&lt;/p&gt;
+
+&lt;p&gt;Hyperion also published a test map and a Dashboard to visualize individual node performance. When the node is providing services normally, the map will show location data. In the meantime, Dashboard will present statistics of served requests, CPU and memory usage. We highly welcome our creative community to participate in enriching Dashboard presentation by joining us at Hyperion Forum as the network grows.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*yoduCo-1kxj3Gf1bsG0gKw.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*FlVAuOkhD9Pr-1zpuzx2FA.jpeg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;
+Dashboard for service node&lt;/p&gt;
+
+&lt;p&gt;For entry-level users, we have minimized the steps to join Map3 at ease. The first step is to create an account at AWS. After creating the account, the system will automatically deploy an edge node in the network just with one click. You can follow the official AWS for detailed instructions. To facilitate reading, we also attach a simple walk through of the overall process below.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step1: Create an account and Key Pair&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create an account (Please follow AWS instructions)&lt;/li&gt;
+  &lt;li&gt;Sign in to AWS console&lt;/li&gt;
+  &lt;li&gt;Create key Pair
+    &lt;ul&gt;
+      &lt;li&gt;Choose your preferred country (region)
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#KeyPairs:sort=keyName&quot;&gt;US East (Ohio)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#KeyPairs:sort=keyName&quot;&gt;US East (N. Virginia)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://us-west-1.console.aws.amazon.com/ec2/v2/home?region=us-west-1#KeyPairs:sort=keyName&quot;&gt;US West (N. California)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#KeyPairs:sort=keyName&quot;&gt;US West (Oregon)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#KeyPairs:sort=keyName&quot;&gt;Asia Pacific (Mumbai)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ap-northeast-2.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-2#KeyPairs:sort=keyName&quot;&gt;Asia Pacific (Seoul)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ap-southeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-1#KeyPairs:sort=keyName&quot;&gt;Asia Pacific (Singapore)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ap-southeast-2.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-2#KeyPairs:sort=keyName&quot;&gt;Asia Pacific (Sydney)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ap-northeast-1.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-1#KeyPairs:sort=keyName&quot;&gt;Asia Pacific (Tokyo)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ca-central-1.console.aws.amazon.com/ec2/v2/home?region=ca-central-1#KeyPairs:sort=keyName&quot;&gt;Canada (Central)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://eu-central-1.console.aws.amazon.com/ec2/v2/home?region=eu-central-1#KeyPairs:sort=keyName&quot;&gt;EU (Frankfurt)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://eu-west-1.console.aws.amazon.com/ec2/v2/home?region=eu-west-1#KeyPairs:sort=keyName&quot;&gt;EU (Ireland)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://eu-west-2.console.aws.amazon.com/ec2/v2/home?region=eu-west-2#KeyPairs:sort=keyName&quot;&gt;EU (London)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://eu-west-3.console.aws.amazon.com/ec2/v2/home?region=eu-west-3#KeyPairs:sort=keyName&quot;&gt;EU (Paris)	&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://eu-north-1.console.aws.amazon.com/ec2/v2/home?region=eu-north-1#KeyPairs:sort=keyName&quot;&gt;EU (Stockholm)&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://sa-east-1.console.aws.amazon.com/ec2/v2/home?region=sa-east-1#KeyPairs:sort=keyName&quot;&gt;South America (São Paulo)&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Click “Create key Pair” button in the page center to create your first key pair
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*D26GBkbpgfWVZjd1q3UGHw.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Create your own key pair name
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*6Y3ivlLZpo1_QaQi_NphjQ.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+      &lt;li&gt;Click “Create Key Pair” button
+        &lt;ol&gt;
+          &lt;li&gt;The Browser will automatically download a key pair file, please save the file for future logins to Amazon Elastic Compute Cloud (EC2).&lt;/li&gt;
+          &lt;li&gt;File names may vary across different operational systems
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*3pUkD6cttkm0aFY9b_-FsQ.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Step2: Deploy Map3 edge node&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Click the following link to create new stack.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://us-east-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;US East (Ohio)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://us-east-2.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;US East (N. Virginia)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://us-west-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;US West (N. California)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://us-west-2.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;US West (Oregon)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ap-south-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Asia Pacific (Mumbai)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ap-northeast-2.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Asia Pacific (Seoul)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ap-southeast-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Asia Pacific (Singapore)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ap-southeast-2.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Asia Pacific (Sydney)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ap-northeast-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Asia Pacific (Tokyo)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ca-central-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;Canada (Central)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://eu-central-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;EU (Frankfurt)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://eu-west-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;EU (Ireland)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://eu-west-2.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;EU (London)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://eu-west-3.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;EU (Paris)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://eu-north-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;EU (Stockholm)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sa-east-1.console.aws.amazon.com/cloudformation/home#/stacks/create/review?templateURL=https://s3-ap-southeast-1.amazonaws.com/hyn.static/cloud-formation/map3-edge-node-cloud-formation.json&amp;amp;stackName=map3-edge-node-cf&amp;amp;param_InstanceType=t2.micro&quot;&gt;South America (São Paulo)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Specify Details. Fill in Stack name, select default InstanceType t2.micro, and choose the keyname you used when creating key pair in the dropdown menu&lt;/p&gt;
+
+    &lt;p&gt;Users are recommend to choose ‘t2.micro’, which is a free usage tier.Per month, the AWS free usage tier covers: 750-hour usage and 15GB of bandwidth out aggregated across all AWS services. (Please check &lt;a href=&quot;https://aws.amazon.com/ec2/instance-types/&quot;&gt;AWS official websites&lt;/a&gt; for more details about &lt;strong&gt;Free Usage Tier&lt;/strong&gt;). &lt;strong&gt;When all information filled, click “Create” button to start creating the edge node.&lt;/strong&gt;
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*uqeOBPmQs2stSd-wZivOkg.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;You have now created an edge node. Wait &lt;strong&gt;2–3 minutes&lt;/strong&gt; for the system to confirm.
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*Y-6rlhXoublU1x38hNSKeQ.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Check your edge node operation status by visiting the link below:&lt;a href=&quot;https://console.aws.amazon.com/ec2/v2/home#Instances:sort=desc:instanceState&quot;&gt;https://console.aws.amazon.com/ec2/v2/home#Instances:sort=desc:instanceState&lt;/a&gt; Choose your preferred region if you need when opening the link above.
+Remember to obtain your public IP (you need &lt;strong&gt;Ipv4&lt;/strong&gt; to view individual node Dashboard)
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*_jh-kTTxVRbho7cxbDhyRA.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;The node is being prepared&lt;/li&gt;
+  &lt;li&gt;The node is in operation
+  &lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*LN1hZvluj51ZMRJuhA2quA.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip. 1&lt;/strong&gt; Enter you public IP(IPV4 ONLY) on your browser, you can see your own map node dashboard. The username and password for dashboard is “&lt;strong&gt;admin&lt;/strong&gt;”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip. 2&lt;/strong&gt; Once you deploy the node, you &lt;strong&gt;don’t&lt;/strong&gt; have to always keep your computers live or AWS account logged in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tip. 3&lt;/strong&gt; You can raise as many Map 3 notes as you wish as long as you follow the instruction above. But please note that Amazon might &lt;strong&gt;charge&lt;/strong&gt; you for this as &lt;strong&gt;t2.micro&lt;/strong&gt; has limited free usage and bandwidth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Step3: How to delete a node&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Click “&lt;strong&gt;Create Stack&lt;/strong&gt;”dropdown menu, and choose delete Stack
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*GnKXIreHYOOrP2rEC5U2gw.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Click “&lt;strong&gt;Yes, Delete&lt;/strong&gt;” to delete Stack
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*k-4wfW2QNci3DUVVRPoOTQ.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Confirm your status
+&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*EoHdsWkCEXu0_7VwANeE6w.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Please send your inquiries to Hyperion Forum via &lt;a href=&quot;https://talk.hyn.space&quot;&gt;talk.hyn.space&lt;/a&gt; if you have encountered any problems. Or send an email to chenbin@hyn.space for technical issues.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/media/2019/02/19/media-2/</link>
+        <guid isPermaLink="true">http://web.map3.network/media/2019/02/19/media-2/</guid>
+        
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>Growth In Location-Based Services</title>
+        <description>&lt;p&gt;&lt;strong&gt;“Location services or Intelligence is on the rise and according to many executives, it is one of the key marketing strategies for their company in 2018.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Among all kinds of smartphone activities, getting location information is the most used service or universal task for the smartphone users. 8 out of 10 smartphone owners use their phone to get directions, recommendations or other information related to their location.&lt;/p&gt;
+
+&lt;p&gt;Unlike other mobile activities, location-based services appeal to all age groups &amp;amp; genders making it most used activity in smartphones. Enterprise see great opportunity to capitalize on this to market their offerings to potential consumers.&lt;/p&gt;
+
+&lt;p&gt;How does it work: Let’s consider you are leaving your home for shopping. Once you entering the shopping mall, brand in the shopping mall may recognize your location and send you a promotion offer message. You are more likely to visit this store and check on the offering.&lt;/p&gt;
+
+&lt;p&gt;It is obvious from the above case, how effective location service advertisements can be to get the attention of customers at the specific moment and have higher likely-hood of gaining new customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;“Due to low ROI of marketing activities from traditional ways (content not reaching to potential customers), the enterprise finds location service advertisements as an answer.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-text highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;As per the report from “Markets and Markets”, the location-based services market is expected to grow to $77.8 Billion by 2021.
+
+– 66% of enterprises rank Location Intelligence as either critical or very important to ongoing revenue growth strategies.
+
+– Enterprises comprised of between 1K and 5K employees say Location Intelligence is critically important to their business success.
+
+– Location-based marketing and location services saw greater adoption in 2016 -2017 and 2018 predictions forecast this to be the year businesses take a “location-first” approach in their marketing, mobile and growth strategy.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;we-talked-about-the-growth-in-location-service-promotion-but-how-this-location-information-is-collected&quot;&gt;We talked about the growth in location service promotion, but how this location information is collected?&lt;/h4&gt;
+
+&lt;p&gt;Did you know smartphones collect GPS location information? Check out the below video for proof.
+&lt;a href=&quot;https://youtu.be/TuxJIOC8_7o&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://img.youtube.com/vi/TuxJIOC8_7o/0.jpg&quot; alt=&quot;Click to play&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the beginning of 2017, phones have been collecting the addresses of nearby cellular towers — even when location services are disabled and sending that data back to companies, for e.g. Google.&lt;/p&gt;
+
+&lt;p&gt;The result is that Google has access to data about individuals’ locations history and their movements. This information is then sold out to third parties or enterprises who use this for location service promotions.&lt;/p&gt;
+
+&lt;p&gt;This goes far beyond a reasonable consumer expectation of privacy and irony is our information is sold without our knowledge and benefits are not shared back with the individual whose data was sold to third-parties.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hyperion returns power to its consumers:&lt;/strong&gt;
+Now with Hyperion, you can have an upper-hand and decide if you want to share and monetize your location data or would like to keep it hidden which is not possible to do with location services like google map. (Read more &lt;a href=&quot;https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/&quot;&gt;here&lt;/a&gt; )&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hyperion will help to bring much needed “transparency, privacy and ownership” for its app users, but what attracts users to use Hyperion:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. High Accuracy: The Hyperion approach of making governance and production of maps, community-driven makes the maps in Hyperion frequently updated and more accurate representation of location information.
+
+2. Early adopters: Reward for contributing to building maps or govern will attract a high number of early adopters.
+
+3. Awareness &amp;amp; ownership: After Google/ Facebook lawsuit, more and more people are becoming aware of how companies are stealing their privacy. This increased concern raise the opportunity for safer options, apps which allow to not share or hide their location information. In Hyperion, users will be able to give their consent or disable location sharing and use of smart contracts (blockchain) will ensure users consent is respected. This will give confidence to users that their data is not with centralized control and can trust Hyperion for safe keeping.
+
+4. Share benefits: Hyperion is the only place where users location information can be monetized and profits are shared back with the individual.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 30 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/media/2019/01/30/media-3/</link>
+        <guid isPermaLink="true">http://web.map3.network/media/2019/01/30/media-3/</guid>
+        
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>Hyperion launches Map3 (DMap) DevNet on 6th January</title>
+        <description>&lt;p&gt;SINGAPORE, Jan. 8, 2019 /PRNewswire/ — Post release of MapRush on 27th December, 2018, Hyperion has kept its momentum and on 6th January 2019, launched the Map3 DevNet with nodes covering Europe, Asia, America and Australia. Map3 is a secure, and high speed decentralized map network aiming to provide high quality services to business institutions and end consumers. Participants can host a Map3 node similar to the hosting of nodes for Bitcoin and Ethereum, but with a much lower barrier of entry. A standard home computer will suffice to join and run services for the Map3 network.&lt;/p&gt;
+
+&lt;p&gt;At the same time, Hyperion is preparing for the launch of the official Dashboard to provide our users and token holders a detailed view into the status of the project.&lt;/p&gt;
+
+&lt;p&gt;About maps:&lt;/p&gt;
+
+&lt;p&gt;Maps are huge business. Today approximately 1/3 of top domains are integrated with maps,
+serving 1 trillion location requests daily. &lt;a href=&quot;https://cloud.google.com/maps-platform/pricing/sheet/&quot;&gt;Google maps latest pricing&lt;/a&gt; scheme charges enterprise users US$2 to US$7 per thousand maps shows. Maps have developed from a flat picture of locations to include geographic, meteorological data, even transportation planning, commercial and other useful information needed to reach spatial consensus, which enables us to connect with the world much more easily.&lt;/p&gt;
+
+&lt;p&gt;Digital maps have proved their efficiency to enable consumer applications e.g. location based social networks, maps, etc. However, prior to Hyperion, location data could only be distributed through centralized organizations with the cost of user privacy. As reported by Techcrunch, location privacy is a dire issue these days. The Cambridge Analytica scandal is another showcase of how large players have been compromising user data. In addition to the privacy issue, digital map lacks pervasiveness as it is prohibitively expensive to update frequently.&lt;/p&gt;
+
+&lt;p&gt;Map3 – DMap Service Network&lt;/p&gt;
+
+&lt;p&gt;Map3 embodies the idea of Web 3.0, a decentralized map that conforms to the intrinsic values of Web3. Map3 changes the landscape and re-distributes wealth and opportunity to the open-participating community by enabling secure and privacy preserved peer to peer servicing.&lt;/p&gt;
+
+&lt;p&gt;MapRush (Dmapper) encourages users to upload location data and provide data correction within the network. This solution will eventually revolutionize the mapping era, and respond to the issue of location data derivatives.&lt;/p&gt;
+
+&lt;p&gt;Map3 will introduce more features in the future such as custom p2p protocol, byzantine tolerance and token payment channels according to user feedback. With the improvement of network nodes, Map3 will be able to provide more personal services to users.&lt;/p&gt;
+
+&lt;p&gt;Titan, the decentralised map for everyone&lt;/p&gt;
+
+&lt;p&gt;Hyperion will officially launch a beta version of Titan in February 2019. Users can download Titan and see location information based on the Map3 network. Titan supports custom map styles – users can be a map designer to redefine the look of spaces. In the future, Titan will serve more location-based functions such as advertisements, searches and positioning.&lt;/p&gt;
+
+&lt;p&gt;Hyperion – the future of Spatial Consensus Maps&lt;/p&gt;
+
+&lt;p&gt;With technological baseline set in place, Hyperion team will then work on the important mechanism design to correctly incentivize players in the current location ecosystem to join our network.&lt;/p&gt;
+
+&lt;p&gt;Hyperion strives for organically integrated innovations in three critical dimensions, coined as the Hyperion Trinity of map technology, economy and society structures, to eventually achieve a sustainable and self-governed map economy of the world. With this, Hyperion will finally achieve the real ‘free map service’.&lt;/p&gt;
+
+&lt;p&gt;Hyperion, the spatial consensus map from the future, has been revealed.&lt;/p&gt;
+
+&lt;p&gt;Telegram: &lt;a href=&quot;https://t.me/HyperionOfficalHYN&quot; target=&quot;_blank&quot;&gt;https://t.me/HyperionOfficalHYN&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a href=&quot;https://www.hyn.space&quot; target=&quot;_blank&quot;&gt;www.hyn.space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Media Contact: &lt;a href=&quot;mailto:Biz@hyn.space&quot;&gt;Biz@hyn.space&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Jan 2019 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/media/2019/01/10/media-4/</link>
+        <guid isPermaLink="true">http://web.map3.network/media/2019/01/10/media-4/</guid>
+        
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>Hyperion Co-Founder Dr Isaac Zhang：Blockchain empowers the world's largest digital location right</title>
+        <description>&lt;p&gt;SINGAPORE, Oct. 22, 2018 /PRNewswire/ – Virtual real estate has become a major application in the blockchain world, and Hyperion is the standout project in this arena. The world’s largest map public chain based on spatial consensus protocol, Hyperion is designed with a community incentive model and its ultimate goal is autonomy in digital location rights.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An indispensable base layer public chain, an infrastructure that supports 10 billion users&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Blockchain can be applied in numerous fields, such as finance, gaming, and product traceability. To Hyperion co-founder Dr Isaac Zhang, the future of blockchain is as infrastructure. Blockchain can only be further developed through the application and popularization of its technology. Maps are a natural starting point.&lt;/p&gt;
+
+&lt;p&gt;Hyperion intends to build a decentralized map economy that supports 10 billion people. Centered around Hyperion’s digital land rights, the economic system is based on the Hyperion Trinity of crowdsourcing technology, crowd-sharing rewards, and community governance.&lt;/p&gt;
+
+&lt;p&gt;Hyperion’s core model has three prongs: land rights mining, land rights dividends, and land rights autonomy. Land mining refers to users contributing map data to obtain HYN currency. Map data is generated by the community based on a spatial consensus protocol, while mapping technology is maintained by a tech community scattered globally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dividends for every contributor&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;With Hyperion’s crowdsourcing technology, everyone has the tools and rights to improve and maintain the map. The Philippines, for example, is made up of thousands of islands, and impossible to map in updated detail in a centralized model without incurring astronomical costs. With a decentralized global map public chain like Hyperion, however, anyone can tag, upload, and authenticate this location without being restricted by a centralized map platform.&lt;/p&gt;
+
+&lt;p&gt;Economy sharing is also a feature of Hyperion that differs from traditional mapping. Centralized mapping platform giants net huge profits by using private user data – for free. Users provide more than 500,000 pieces of information and more than 400,000 photos daily to Baidu maps. With free contributions come two disadvantages. First, there is a lack of motivation to upload map information. Secondly, without reasonable reward, a rational person has no incentive to access dangerous or remote areas.&lt;/p&gt;
+
+&lt;p&gt;With Hyperion, data democracy and benefits-sharing are realized. The community is incentivized through the token, and the value of the token depends on the consensus and contribution of the community. Each user is not only a data contributor but also a beneficiary of sustainable incentives. The more you use, the more you get. Economic benefits are shared by digital land rights holders and automatically distributed by smart contracts. A user also gets a share when his data is used for commercial purposes. In other words, this is a marketplace for the acquisition, sale/resale and rental of digital land.&lt;/p&gt;
+
+&lt;p&gt;What’s more, the blockchain map is governed by the community, and community users are the ones who make decisions that influence map services and economic models. This, simply, is land rights autonomy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Innovative Consensus Agreement to Improve Transaction Performance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The data generation speed and load of current times are unprecedented. The scale of spatial data and high-speed requirements are a challenge to Hyperion. Dr Zhang’s solution to this is unique. Compared to other public chain projects on the market, Hyperion’s core difference lies in the innovative consensus mechanism. Hyperion’s main chain consists of two layers: the base chain uses bft + dPOS, a design in line with Hyperion’s hierarchical community governance principles. The second layer is the space chain, which uses pBFT + SCP (spatial consensus protocol) – pBFT makes the block notary signature, and SCP does the determination of the spatial data state. There are two designs in the space chain. Spatial data is elastically fragmented twice in the elastic space consensus. The first fragmentation is aligned with the locality of the network level and the application level, and can be flexibly adjusted according to the quantity. The second fragment is in the shard, and the local processing is segmented for multi-core parallel computing. Both shards can be merged globally by the pull-reduce method.&lt;/p&gt;
+
+&lt;p&gt;Hyperion is designed to have high performance and low latency. High performance is achieved through elastic space sharding. There are two levels of low latency. First, network-level delay is a general problem of distributed systems. The key is to build the locality of the application layer and the network layer. This point is optimized for the first slice of the elastic space slice. The locality of the network layer can be simply understood as finding a nearby shard to handle the requirements. The second is the final delay time. The BFT series of solutions is fast and can be finalized in one second. This is particularly relevant to map chains because of the cross chains across many applications. Hyperion maintains the characteristics of multi-centeredness with the use of these two technologies.&lt;/p&gt;
+
+&lt;p&gt;To some, blockchain is a bubble waiting to burst. Dr Zhang, however, firmly believes that blockchain will revolutionize businesses and human knowledge. After all, everyone should have the right to define the Earth’s space equally.&lt;/p&gt;
+
+&lt;p&gt;SOURCE Hyperion&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/media/2018/11/09/media-5/</link>
+        <guid isPermaLink="true">http://web.map3.network/media/2018/11/09/media-5/</guid>
+        
+        
+        <category>Media</category>
+        
+      </item>
+    
+      <item>
+        <title>NOTICE AND DISCLAIMER</title>
+        <description>&lt;p&gt;PLEASE READ THE ENTIRETY OF THIS “NOTICE AND DISCLAIMER” SECTION CAREFULLY. NOTHING HEREIN CONSTITUTES LEGAL, FINANCIAL, BUSINESS OR TAX ADVICE AND YOU SHOULD CONSULT YOUR OWN LEGAL, FINANCIAL, TAX OR OTHER PROFESSIONAL ADVISOR(S) BEFORE ENGAGING IN ANY ACTIVITY IN CONNECTION HEREWITH. NEITHER HYPERION FOUNDATION LTD. (THE FOUNDATION), ANY OF THE PROJECT TEAM MEMBERS (THE HYPERION TEAM) WHO HAVE WORKED ON THE HYPERION ECOSYSTEM (AS DEFINED HEREIN) OR PROJECT TO DEVELOP THE HYPERION ECOSYSTEM IN ANY WAY WHATSOEVER, ANY DISTRIBUTOR/VENDOR OF HYN TOKENS (THE DISTRIBUTOR), NOR ANY SERVICE PROVIDER SHALL BE LIABLE FOR ANY KIND OF DIRECT OR INDIRECT DAMAGE OR LOSS WHATSOEVER WHICH YOU MAY SUFFER IN CONNECTION WITH ACCESSING THIS WHITEPAPER, THE WEBSITE AT HTTPS://WWW.HYN.SPACE (THE WEBSITE) OR ANY OTHER WEBSITES OR MATERIALS PUBLISHED BY THE FOUNDATION.&lt;/p&gt;
+
+&lt;p&gt;The Whitepaper and the Website are intended for general informational purposes only and does not constitute a prospectus, an offer document, an offer of securities, a solicitation for investment, or any offer to sell any product, item or asset (whether digital or otherwise). The information herein may not be exhaustive and does not imply any element of a contractual relationship. There is no assurance as to the accuracy or completeness of such information and no representation, warranty or undertaking is or purported to be provided as to the accuracy or completeness of such information. Where the Whitepaper or the Website includes information that has been obtained from third party sources, the Foundation, the Distributor, and/or the Hyperion team have not independently verified the accuracy or completion of such information. Further, you acknowledge that circumstances may change and that the Whitepaper or the Website may become outdated as a result; and neither the Foundation nor the Distributor is under any obligation to update or correct this document in connection therewith.&lt;/p&gt;
+
+&lt;p&gt;Nothing in the Whitepaper or the Website constitutes any offer by the Foundation, the Distributor or the Hyperion team to sell any HYN (as defined herein) nor shall it or any part of it nor the fact of its presentation form the basis of, or be relied upon in connection with, any contract or investment decision. Nothing contained in the Whitepaper or the Website is or may be relied upon as a promise, representation or undertaking as to the future&lt;/p&gt;
+
+&lt;p&gt;Draft for open community review and subject to change.&lt;/p&gt;
+
+&lt;p&gt;performance of the Hyperion Ecosystem. The agreement between the Distributor and you, in relation to any sale and purchase of HYN is to be governed by only the separate terms and conditions of such agreement.&lt;/p&gt;
+
+&lt;p&gt;By accessing the Whitepaper or the Website (or any part thereof), you represent and warrant to the Foundation, the Distributor, its affiliates, and the Hyperion team as follows:&lt;/p&gt;
+
+&lt;p&gt;• (a)  inanydecisiontopurchaseanyHYN,youhavenotreliedonanystatementsetoutinthe Whitepaper or the Website;&lt;/p&gt;
+
+&lt;p&gt;• (b)  you will and shall at your own expense ensure compliance with all laws, regulatory requirements and restrictions applicable to you (as the case may be);&lt;/p&gt;
+
+&lt;p&gt;• (c)  you acknowledge, understand and agree that HYN may have no value, there is no guarantee or representation of value or liquidity for HYN, and HYN is not for speculative investment;&lt;/p&gt;
+
+&lt;p&gt;• (d)  none of the Foundation, the Distributor, its affiliates, and/or the Hyperion team members shall be responsible for or liable for the value of HYN, the transferability and/or liquidity of HYN and/or the availability of any market for HYN through third parties or otherwise; and&lt;/p&gt;
+
+&lt;p&gt;• (e)  you acknowledge, understand and agree that you are not eligible to purchase any HYN if you are a citizen, national, resident (tax or otherwise), domiciliary and/or green card holder of a geographic area or country (i) where it is likely that the sale of HYN would be construed as the sale of a security (howsoever named), financial service or investment product and/or (ii) where participation in token sales is prohibited by applicable law, decree, regulation, treaty, or administrative act (including without limitation the United States of America, Canada, New Zealand, People’s Republic of China (but not including the special administrative regions of Hong Kong and Macau, and the territory of Taiwan), the Republic of Korea and the Socialist Republic of Vietnam).&lt;/p&gt;
+
+&lt;p&gt;The Foundation, the Distributor and the Hyperion team do not and do not purport to make, and hereby disclaims, all representations, warranties or undertaking to any entity or person (including without limitation warranties as to the accuracy, completeness, timeliness or&lt;/p&gt;
+
+&lt;p&gt;reliability of the contents of the Whitepaper or the Website, or any other materials published by the Foundation or the Distributor). To the maximum extent permitted by law, the Foundation, the Distributor, their affiliates and service providers shall not be liable for any indirect, special, incidental, consequential or other losses of any kind, in tort, contract or otherwise (including, without limitation, any liability arising from default or negligence on the part of any of them, or any loss of revenue, income or profits, and loss of use or data) arising from the use of the Whitepaper or the Website, or any other materials published, or its contents (including without limitation any errors or omissions) or otherwise arising in connection with the same. Prospective purchasers of HYN should carefully consider and evaluate all risks and uncertainties (including financial and legal risks and uncertainties) associated with the HYN token sale, the Foundation, the Distributor and the Hyperion team.&lt;/p&gt;
+
+&lt;p&gt;All contributions will be applied towards the advancing, promoting the research, design and development of, and advocacy for the incorporation of blockchain technologies to ensure that online maps continue to remain pervasive, accurate and privacy‐preserved, with the goal to finally solve the systemic issues of incomplete, inaccurate and outdated map data, limited transparency, poor privacy and ownership. The Foundation, the Distributor and their various affiliates would develop, manage and operate the Hyperion Ecosystem.&lt;/p&gt;
+
+&lt;p&gt;The information set out in the Whitepaper and the Website is for community discussion only and is not legally binding. No person is bound to enter into any contract or binding legal commitment in relation to the acquisition of HYN, and no virtual currency or other form of payment is to be accepted on the basis of the Whitepaper or the Website. The agreement for sale and purchase of HYN and/or continued holding of HYN shall be governed by a separate set of Terms and Conditions or Token Purchase Agreement (as the case may be) setting out the terms of such purchase and/or continued holding of HYN (the Terms and Conditions), which shall be separately provided to you or made available on the Website. In the event of any inconsistencies between the Terms and Conditions and the Whitepaper or the Website, the Terms and Conditions shall prevail.&lt;/p&gt;
+
+&lt;p&gt;No regulatory authority has examined or approved of any of the information set out in the Whitepaper or the Website. No such action has been or will be taken under the laws, regulatory requirements or rules of any jurisdiction. The publication, distribution or&lt;/p&gt;
+
+&lt;p&gt;dissemination of the Whitepaper or the Website does not imply that the applicable laws, regulatory requirements or rules have been complied with.&lt;/p&gt;
+
+&lt;p&gt;The information set out herein is only conceptual, and describes the future development goals for the Hyperion Ecosystem to be developed. The Whitepaper or the Website may be amended or replaced from time to time. There are no obligations to update the Whitepaper or the Website, or to provide recipients with access to any information beyond what is provided herein.&lt;/p&gt;
+
+&lt;p&gt;All statements contained herein, statements made in press releases or in any place accessible by the public and oral statements that may be made by the Foundation, the Distributor and/or the Hyperion team may constitute forward‐looking statements (including statements regarding intent, belief or current expectations with respect to market conditions, business strategy and plans, financial condition, specific provisions and risk management practices). You are cautioned not to place undue reliance on these forward‐looking statements given that these statements involve known and unknown risks, uncertainties and other factors that may cause the actual future results to be materially different from that described by such forward‐looking statements, and no independent third party has reviewed the reasonableness of any such statements or assumptions. These forward‐looking statements are applicable only as of the date indicted in the Whitepaper, and the Foundation, the Distributor as well as the Hyperion team expressly disclaims any responsibility (whether express or implied) to release any revisions to these forward‐looking statements to reflect events after such date.&lt;/p&gt;
+
+&lt;p&gt;The use of any company and/or platform names or trademarks herein (save for those which relate to the Foundation, the Distributor or its affiliates) does not imply any affiliation with, or endorsement by, any third party. References in the Whitepaper or the Website to specific companies and platforms are for illustrative purposes only.&lt;/p&gt;
+
+&lt;p&gt;The Whitepaper and the Website may be translated into a language other than English and in the event of conflict or ambiguity between the English language version and translated versions of the Whitepaper or the Website, the English language versions shall prevail. You&lt;/p&gt;
+
+&lt;p&gt;acknowledge that you have read and understood the English language version of the Whitepaper and the Website.&lt;/p&gt;
+
+&lt;p&gt;No part of the Whitepaper or the Website is to be copied, reproduced, distributed or disseminated in any way without the prior written consent of the Foundation or the Distributor.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Sep 2018 00:00:00 +0800</pubDate>
+        <link>http://web.map3.network/notice/2018/09/24/notice-7/</link>
+        <guid isPermaLink="true">http://web.map3.network/notice/2018/09/24/notice-7/</guid>
+        
+        
+        <category>Notice</category>
+        
+      </item>
+    
+  </channel>
+</rss>
